@@ -12,4 +12,4 @@ Features:
 Responsive Design: Optimized for all devices.
 Project Showcase: Detailed descriptions and links to my projects.
 Contact Form: Allows visitors to reach out directly.
-Explore the code on my GitHub and visit the live site at yourwebsite.com.
+Explore the code on my GitHub
